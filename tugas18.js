@@ -1,4 +1,4 @@
-const tugas19 = () => {
+const tugas18 = () => {
     //tugas no 1
     var kalimat1 = "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.";
     console.log(kalimat1.slice(8,24));
@@ -10,4 +10,4 @@ const tugas19 = () => {
     console.log(str1.concat(str2));
 }
 
-tugas19();
+tugas18();
